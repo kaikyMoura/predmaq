@@ -1,0 +1,47 @@
+.colunas {
+    border: 1px gray solid;
+    padding: 0px;
+}  
+
+.colunas_headers {
+    background-color: #0071BC;
+}
+
+.colunas_plotagem {
+    border-left: 3px #0071BC solid;
+    border-right: 3px #0071BC solid;
+}
+
+#tabs-maquinas {
+    margin: 10px;
+}
+
+.header-tabela {
+    background-color: #0071BC;
+}
+
+.botaoMaq {
+    text-align: center;
+    margin-left: 7px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.maqpanes {
+    margin-top: 10px;
+}
+
+.busca {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+#adicionar {
+    border-radius: 70px !important;
+    width: 57px !important;
+    font-size: 27px !important;
+    margin-top: 15px;
+    margin-bottom: 55px;
+}
